@@ -1,14 +1,14 @@
 {
-    "name":"bosco",
-    "version":"1.0.0",
-    "main":"app.js",
+    "name": "bosco",
+    "version": "1.0.0",
+    "main": "app.js",
     "scripts": {
-            "start":"node app.js"
+        "start": "node app.js"
     },
-    "dependencies":{
-        "cors":"...",
-        "dotenv":"...",
-        "express":"...",
-        "mysql2":"..."
+    "dependencies": {
+        "cors": "^2.8.6",
+        "dotenv": "^18.0.5",
+        "express": "^5.2.1",
+        "mysql2": "^3.24.5"
     }
 }
